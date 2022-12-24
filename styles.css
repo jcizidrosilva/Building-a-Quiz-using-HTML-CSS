@@ -162,3 +162,19 @@ button {
     white-space: nowrap;
     border: 0;
 }
+
+footer {
+    background-color: #2a2a40;
+    display: flex;
+    justify-content: center;
+}
+
+footer,
+footer a {
+    color: #dfdfe2;
+}
+
+address {
+    text-align: center;
+    padding: 2px;
+}
